@@ -59,3 +59,10 @@ git commit -am 'Initial commit'
 git remote add origin git@github.com:angelocabanerodedicatoria93/gatsby_crash_course.git
 git push -u origin master
 ```
+
+<https://www.netlify.com/>
+
+netlify, new site from git, github, authorize netlify, gatsby_crash_course, deploy site  
+click url for your website  
+
+<https://zealous-lamarr-334f08.netlify.com/blog>
